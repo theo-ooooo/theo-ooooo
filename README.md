@@ -25,9 +25,6 @@
 
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&color=auto) -->
 
-## Github
- 공용 - [Public - kkwondev Github](https://github.com/kkwondev) <br/>
-공부용 - [Private - Theo Github](https://github.com/theo-kkk)
 
   
 </div>
