@@ -2,7 +2,7 @@
   
 <!-- ![header](https://capsule-render.vercel.app/api?&fontSize=70&reversal=true&color=auto&animation=fadeIn&fontColor=d6ace6) -->
   
- ## Theo
+ ## Kang Kyoungwon(THEO)
   
  
  #### 사용언어
