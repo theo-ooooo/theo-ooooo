@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Kang%20Kyoungwon%20(THEO)&fontAlign=50&fontAlignY=40&fontSize=35&desc=Backend%20Developer&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Kyoungwon%20Kang&fontAlign=50&fontAlignY=40&fontSize=35" />
 </p>
 
 <div align="center">
@@ -8,14 +8,14 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kkwondev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-ooooo/)
-[![Notion](https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=000000)](https://kkwon-theo.notion.site/Kang-kyungwon-2e211b9df81f473ca887d06afccaef1b?pvs=4)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=githubpages&logoColor=white)](https://kwkang.net)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=fffff)](https://kkwon-theo.notion.site/Kang-kyungwon-2e211b9df81f473ca887d06afccaef1b?pvs=4)
+[![Blog](https://img.shields.io/badge/Blog-dddddd?style=flat-square&logo=githubpages&logoColor=white)](https://kwkang.net)
 
 ---
 
 ## 💼 Work Experience
 
-### 🏢 Topco  
+### 🏢 탑툰 (탑코미디어)  
 🗓️ 2021.07 ~ 2025.02  
 **Backend Developer (Node.js / NestJS)**
 
