@@ -1,30 +1,53 @@
-<div align=center>
-  
-<!-- ![header](https://capsule-render.vercel.app/api?&fontSize=70&reversal=true&color=auto&animation=fadeIn&fontColor=d6ace6) -->
-  
- ## Kang Kyoungwon(THEO)
-  
- 
- #### 사용언어
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
-   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=blank" /> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white" /> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Kang%20Kyoungwon%20(THEO)&fontAlign=50&fontAlignY=40&fontSize=35&desc=Backend%20Developer&descAlign=50&descAlignY=65" />
+</p>
 
+<div align="center">
 
- 
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftheo-kkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+## 🎯 It's Me!
 
-<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&color=auto) -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kkwondev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-ooooo/)
+[![Notion](https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=000000)](https://kkwon-theo.notion.site/Kang-kyungwon-2e211b9df81f473ca887d06afccaef1b?pvs=4)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=githubpages&logoColor=white)](https://kwkang.net)
 
+---
 
-  
+## 💼 Work Experience
+
+### 🏢 Topco  
+🗓️ 2021.07 ~ 2025.02  
+**Backend Developer (Node.js / NestJS)**
+
+### 🏢 후스구스  
+🗓️ 2021.03 ~ 2021.06  
+**Frontend Developer (React)**
+
+### 🏢 퍼플스  
+🗓️ 2020.11 ~ 2021.02  
+**Web Publisher**
+
+---
+
+## 🛠 Tech
+
+### 💻 Backend  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### 🖥 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+---
+
+## 📊 GitHub Stats
+
+![THEO's GitHub stats](https://github-readme-stats.vercel.app/api?username=theo-ooooo&show_icons=true&theme=radical)
+
 </div>
