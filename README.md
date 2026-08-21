@@ -1,96 +1,54 @@
-# 강경원 · Backend Engineer
+<div align="center">
+
+**강경원** · Backend Engineer
 
 운영에서 버티는 서비스를 만듭니다. 성능 병목은 구조로 풉니다.
-기획부터 배포까지 직접 굴리는 사이드 프로젝트로 새 스택을 검증합니다.
 
-[kwkang.net](https://kwkang.net) · [kkwondev@gmail.com](mailto:kkwondev@gmail.com)
+[Blog](https://kwkang.net) · [Email](mailto:kkwondev@gmail.com)
 
----
+</div>
 
-## 지금 만드는 것
+## 🚀 Projects.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| 프로젝트 | 설명 | 저장소 / 링크 |
+|---|---|---|
+| **장터지기** `진행 중` | 나라장터 입찰공고 알림 — 참가자격 자동 판정, 첨부 공고문(PDF·HWP) 파싱, 예상 낙찰 구간 | [jangteojigi.com](https://jangteojigi.com) |
+| **백틱** `진행 중` | 개발자 블로그 플랫폼 — 멀티유저 블로그 + 국내 기업 기술블로그 큐레이션 피드 | [backtick.blog](https://backtick.blog) |
+| **재고콕** | QR 코드로 찍어 관리하는 재고관리 SaaS | [재고콕 서버](https://github.com/theo-ooooo/jaegokok-server) |
+| **OTT 정산 시스템** | 구독료를 시청시간 비례로 CP에 정산 — 원단위 잔여배분(Largest Remainder), 수수료·원천징수 공제 | [ott-settlement](https://github.com/theo-ooooo/ott-settlement) |
+| **모잇** | 혼자도 같이도, 오늘 뭐 먹을지 30초 안에 정하는 메뉴 추천·모임 투표 | [모잇 서버](https://github.com/theo-ooooo/moeat-server) · [웹](https://github.com/theo-ooooo/moeat-web) |
+| **Luna** | 생리주기·배란일 추적 앱 — Rails 8 API + React Native | [luna](https://github.com/theo-ooooo/luna) |
+| **crimp** | 국내 클라이머를 위한 디지털 홈 — 암장·루트·등반 로그·크루 | [crimp](https://github.com/theo-ooooo/crimp) |
+| **웹툰 열람 플랫폼** | 회차 열람·구매 플로우 — Spring Boot 3.5 + Next.js 16 | [백엔드](https://github.com/theo-ooooo/webtoon-backend) · [프론트](https://github.com/theo-ooooo/webtoon-frontend) |
+| **루나톡** | 쇼핑몰 — 상품·주문·결제 API, Redis 캐시로 조회 성능 개선, CRA→Next.js 마이그레이션 | [서버](https://github.com/theo-ooooo/Lunatalk-Server) · [웹](https://github.com/theo-ooooo/Lunatalk-Next) |
+| **가자** | 지하철·버스 경로 추적 서비스 | [gaja](https://github.com/theo-ooooo/gaja) |
+| **Tech Blog** | 개인 기술 블로그 — SSR, 다크모드, 태그 필터, 댓글 | [kwkang.net](https://kwkang.net) · [저장소](https://github.com/theo-ooooo/kwkang.log) |
 
-<a href="https://jangteojigi.com"><img src="https://raw.githubusercontent.com/theo-ooooo/theo-ooooo/main/assets/jangteojigi.png" alt="장터지기" /></a>
+### 🤝 Team.
 
-### 🏛️ [장터지기](https://jangteojigi.com)
-**나라장터 입찰공고 알림**
+| 팀 | 내용 | 기여 |
+|---|---|---|
+| [급할땐](https://github.com/Geuphalttaen) | 주변 공중화장실을 지도에서 찾고 길 안내까지 — 로그인 없이 사용, 로그인 시 위치 제보 | [Server](https://github.com/Geuphalttaen/Geuphalttaen-Server) (Kotlin) · [App](https://github.com/Geuphalttaen/Geuphalttaen-App) (Expo) · [Admin](https://github.com/Geuphalttaen/Geuphalttaen-Admin) |
+| [DeepDirect](https://github.com/DeepDirect) | 쇼핑몰 — 상품 관리자·유저 페이지, 카트·주문·마이페이지 | [be #6](https://github.com/DeepDirect/shoppingmall-be/pull/6) · [#9](https://github.com/DeepDirect/shoppingmall-be/pull/9) · [#11](https://github.com/DeepDirect/shoppingmall-be/pull/11) · [#28](https://github.com/DeepDirect/shoppingmall-be/pull/28) / [fe #24](https://github.com/DeepDirect/shoppingmall-fe/pull/24) · [#32](https://github.com/DeepDirect/shoppingmall-fe/pull/32) · [#35](https://github.com/DeepDirect/shoppingmall-fe/pull/35) · [#37](https://github.com/DeepDirect/shoppingmall-fe/pull/37) |
+| [구름톤 스쿠버다이버스](https://github.com/goorm-scuba-divers) | 회원 관리 백엔드 — 토큰 쿠키 적용, 로그아웃 API 정리 | [#11](https://github.com/goorm-scuba-divers/member-management-backend/pull/11) · [#13](https://github.com/goorm-scuba-divers/member-management-backend/pull/13) · [#16](https://github.com/goorm-scuba-divers/member-management-backend/pull/16) · [#17](https://github.com/goorm-scuba-divers/member-management-backend/pull/17) · [#19](https://github.com/goorm-scuba-divers/member-management-backend/pull/19) |
 
-평일 하루 1,095건 올라오는 조달청 공고 중 **우리 회사가 나갈 수 있는 것만** 골라 알려줍니다. 실제 관납업체(피복·방탄 제조)에 붙여 쓰면서 만듭니다.
-
-- 조달청 OpenAPI 30분 주기 수집 — 누적 공고·낙찰 각 **17만 건**
-- 지역제한·직생증명·업종 대조 → `가능 / 검토 / 불가` 자동 판정
-- 지역제한이 API에 안 담겨(개찰 전 6,978건 중 **0건**) PDF·HWP·HWPX 첨부를 직접 파싱
-- 과거 낙찰률 중앙값·낙찰하한율로 **예상 낙찰 구간** 산출
-- 한국어 오탐(`방검`→지**방검**찰청) 낱말 가장자리 규칙으로 **87% 제거**
-
-`Spring Boot 3.4` `Java 17` `QueryDSL` `Next.js 16` `PostgreSQL` `Cloud Run`
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://backtick.blog"><img src="https://raw.githubusercontent.com/theo-ooooo/theo-ooooo/main/assets/backtick.png" alt="백틱" /></a>
-
-### 📝 [백틱](https://backtick.blog)
-**개발자 블로그 플랫폼**
-
-누구나 가입해 `/@handle` 블로그를 갖는 멀티유저 플랫폼 + **국내 기업 기술블로그 큐레이션 피드**.
-
-- 마크다운 발행, 태그, 컬렉션(시리즈), 개인 블로그 홈
-- 우아한형제들·카카오·토스·네이버 D2·GeekNews·velog RSS 주기 수집
-- 글 없는 새 플랫폼의 **콜드스타트를 외부 콘텐츠 수급으로** 해결
-- AI 3줄 요약, 팀 페이지, 검색·북마크·통계
-- App Router SSR + OG·sitemap + IndexNow(빙·네이버 즉시 색인)
-
-`Next.js 16` `React 19` `Prisma` `NextAuth v5` `PostgreSQL` `Vercel`
-
-</td>
-</tr>
-</table>
-
----
-
-## 스택
+### 🧰 Stack.
 
 | | |
 |---|---|
 | **Backend** | Java · Spring Boot · Kotlin · Node.js · NestJS · Python |
 | **Frontend** | TypeScript · React · Next.js · Tailwind · Flutter |
-| **Data** | PostgreSQL · MySQL · Redis · JPA/QueryDSL · Prisma |
-| **Infra** | Docker · GCP(Cloud Run, Scheduler) · AWS(ECS/ECR) · GitHub Actions |
-
-## 지난 프로젝트
-
-| | | |
-|---|---|---|
-| **Lunatalk** | 전자상거래 — 상품/주문/결제 API, Redis 캐시로 조회 성능 개선, CRA→Next.js 마이그레이션 | `Spring Boot` `Next.js` `Redis` |
-| **Tech Blog** | [kwkang.net](https://kwkang.net) — SSR 블로그, 다크모드·태그·댓글 | `Next.js` `TypeScript` |
+| **Data** | PostgreSQL · MySQL · Redis · JPA / QueryDSL · Prisma |
+| **Infra** | Docker · GCP (Cloud Run, Scheduler) · AWS (ECS/ECR) · GitHub Actions |
 
 ---
 
-<details>
-<summary><b>어떤 개발자인가</b></summary>
-
-<br />
-
-글로벌 서비스 환경에서 플랫폼 기능을 개발하고, 운영 중 발생하는 성능 이슈를 구조적으로 해결해 온 백엔드 개발자입니다.
-
-Node.js(NestJS) 기반 실무 경험을 중심으로 결제·이벤트·관리자 시스템·운영 자동화를 직접 설계·구현했고, 슬로우 쿼리 개선과 API 구조 리팩토링으로 실제 서비스 응답 성능과 안정성을 끌어올렸습니다.
-
-프론트엔드(React, Next.js) 경험이 있어 기획·디자인과 협업할 때 전체 흐름을 보고 문제를 풉니다. 최근에는 Spring Boot·Kotlin·클라우드(GCP/AWS)로 넓혀 더 큰 규모의 시스템 설계를 연습하고 있습니다.
-
-</details>
-
-<details>
-<summary><b>중요하게 생각하는 것</b></summary>
-
-<br />
-
-- **운영을 전제로 설계한다** — 장애 때 어디를 볼지 정해두지 않은 구조는 미완성이라고 봅니다
-- **병목은 구조에서 찾는다** — 쿼리 하나를 고치기 전에 데이터 흐름을 먼저 그립니다
-- **측정한 것만 말한다** — "빨라졌다"보다 "2.5배 빨라졌다"를 씁니다
-- **읽는 사람을 위해 쓴다** — 코드도 커밋 메시지도 다음 사람이 읽습니다
-
-</details>
+<div align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=theo-ooooo&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/theo-ooooo"
+    width="450"
+    height="225"
+  />
+</a>
+</div>
