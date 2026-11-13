@@ -33,17 +33,20 @@
 </tr>
 </table>
 
-## 🚀 Projects
+## 🚀 운영 중
 
 | 프로젝트 | 설명 | 링크 |
 |---|---|---|
 | **백틱** `운영 중` | 개발자 블로그 플랫폼. 멀티유저 블로그 + 국내 기업 기술블로그 큐레이션 피드 | [backtick.blog](https://backtick.blog) |
-| **OTT 정산 시스템** | 구독료를 시청시간 비례로 CP에 정산. 원단위 잔여배분(Largest Remainder), 수수료와 원천징수 공제 | [ott-settlement](https://github.com/theo-ooooo/ott-settlement) |
-| **모잇** | 혼자도 같이도, 오늘 뭐 먹을지 30초 안에 정하는 메뉴 추천과 모임 투표 | [서버](https://github.com/theo-ooooo/moeat-server) / [웹](https://github.com/theo-ooooo/moeat-web) |
-| **Luna** | 생리주기, 배란일 추적 앱. Rails 8 API + React Native | [luna](https://github.com/theo-ooooo/luna) |
-| **웹툰 열람 플랫폼** | 회차 열람과 구매 플로우. Spring Boot 3.5 + Next.js 16 | [백엔드](https://github.com/theo-ooooo/webtoon-backend) / [프론트](https://github.com/theo-ooooo/webtoon-frontend) |
-| **루나톡** | 쇼핑몰. 상품, 주문, 결제 API, Redis 캐시로 조회 성능 개선, CRA → Next.js 마이그레이션 | [서버](https://github.com/theo-ooooo/Lunatalk-Server) / [웹](https://github.com/theo-ooooo/Lunatalk-Next) |
 | **Tech Blog** | 개인 기술 블로그. SSR, 다크모드, 태그 필터, 댓글 | [kwkang.net](https://kwkang.net) / [저장소](https://github.com/theo-ooooo/kwkang.log) |
+
+## 🧪 사이드 프로젝트
+
+| 프로젝트 | 설명 | 링크 |
+|---|---|---|
+| **OTT 정산 시스템** | 구독료를 시청시간 비례로 CP에 정산. 원단위 잔여배분(Largest Remainder), 수수료와 원천징수 공제 | [ott-settlement](https://github.com/theo-ooooo/ott-settlement) |
+| **루나톡** | 쇼핑몰. 상품, 주문, 결제 API, Redis 캐시로 조회 성능 개선, CRA → Next.js 마이그레이션 | [서버](https://github.com/theo-ooooo/Lunatalk-Server) / [웹](https://github.com/theo-ooooo/Lunatalk-Next) |
+| **웹툰 열람 플랫폼** | 회차 열람과 구매 플로우. Spring Boot 3.5 + Next.js 16 | [백엔드](https://github.com/theo-ooooo/webtoon-backend) / [프론트](https://github.com/theo-ooooo/webtoon-frontend) |
 
 ## 🤝 Team
 
